@@ -1,2 +1,4 @@
 opencv-python
 mediapipe
+face_recognition
+dlib==19.22
